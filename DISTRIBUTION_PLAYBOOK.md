@@ -1,128 +1,166 @@
-# 🚀 Free Autonomous Distribution Playbook: YC Talent Radar
+# 🚀 Anti-Ban Distribution Playbook: YC Talent Radar
 
-This playbook contains ready-to-publish content to drive the first 100+ active users and recurring revenue to your Apify Actor:
-👉 **Live Actor**: https://apify.com/tapjaa/yc-talent-radar
-👉 **Sample Dataset**: [`sample_data/yc_hiring_talent_radar_sample.csv`](file:///c:/Users/d.meiram/work/side/side/sample_data/yc_hiring_talent_radar_sample.csv)
+> **⚠️ Стратегия обхода спам-фильтров Reddit:**
+> 1. **Тело поста публикуется БЕЗ внешних ссылок.** Reddit AutoModerator моментально удаляет или отправляет в shadowban новые посты со ссылками. Посты без ссылок получают в 5–10 раз больше показов и апвоутов.
+> 2. **Сразу после публикации поста вы сами оставляете ПЕРВЫЙ комментарий** (со ссылкой на Apify). В комментариях ссылки разрешены и не триггерят фильтры!
 
 ---
 
-## 📌 Post 1: Reddit (r/sales & r/GrowthHacking)
+## 📌 Пост 1: Reddit (r/sales & r/GrowthHacking)
+*Самая платежеспособная аудитория — B2B сейлзы и фаундеры агентств, ищущие триггеры для продаж.*
 
-**Subreddits:** [r/sales](https://reddit.com/r/sales), [r/GrowthHacking](https://reddit.com/r/GrowthHacking), [r/leadgeneration](https://reddit.com/r/leadgeneration)  
-**Best Time:** Tuesday or Thursday morning (8:00 AM – 11:00 AM EST)  
-**Flair:** `Resource` / `Discussion`
+* **Сабреддиты:** [r/sales](https://reddit.com/r/sales), [r/GrowthHacking](https://reddit.com/r/GrowthHacking), [r/leadgeneration](https://reddit.com/r/leadgeneration)
+* **Лучшее время:** Вторник или Четверг, 16:00 – 19:00 по времени Казахстана (7:00 – 10:00 AM EST)
+* **Flair при публикации:** `Discussion` / `Resource`
 
-### Title:
-> **How we track venture-backed YC startups that are aggressively hiring (Trigger Events for outbound)**
+### 1. Заголовок (Title):
+```text
+Why funding rounds are dead for outbound (and why we now track YC engineering hiring triggers instead)
+```
 
-### Body:
+### 2. Тело поста (Post Body — копировать без ссылок):
 ```text
 Hey everyone,
 
-If you do B2B outbound or sell to tech startups, you already know that "funding announcements" are often too late—by the time TechCrunch posts a Series A, the company's inbox is already flooded with 150+ SDR emails.
+If you sell B2B (dev tools, cloud, recruiting, HR tech, SaaS), you've probably noticed that "funding announcements" don't convert like they used to. By the time TechCrunch covers a Series A, the founders' inboxes are already hit by 200+ automated sequences.
 
-A much stronger buying trigger is **Aggressive Engineering & Exec Hiring**. When a funded startup opens 5–10 high-paying roles simultaneously, it means:
-1. Confirmed runway/budget.
-2. Immediate need for tooling: dev tools, cloud infrastructure, HR tech, security, SaaS.
+A much stronger buying signal that almost nobody tracks systematically is **Hiring Velocity**.
 
-I wanted an automated way to monitor Work at a Startup (YC's verified hiring portal) to pull:
-- Startup name, batch (W24, S23, etc.), and team size
-- Specific open roles with exact salary ranges & equity
-- Direct founder names for cold outreach
+When a venture-backed startup opens 5–10 senior engineering roles at once, it tells you three things:
+1. They have fresh capital and confirmed budget.
+2. They are scaling architecture (they need security, infrastructure, dev tools, and enterprise licenses).
+3. They are in execution mode and making buying decisions this month.
 
-I built an open Apify Actor that pulls this data in under 20 seconds:
-👉 https://apify.com/tapjaa/yc-talent-radar
+I spent the weekend building an automated radar that tracks Work at a Startup (Y Combinator's verified hiring portal). Instead of scraping surface directory cards, it extracts:
+- Open roles with exact posted salary ranges and equity
+- Company batch (W24, S23, etc.), team size, and industry
+- Direct founder names so you can reach out before recruiters flood them
 
-It hooks directly into Clay / Make / Airtable so you can enrich leads with founder emails and trigger automated outbound.
+We feed this data straight into Clay and Airtable to draft personalized outreach referencing the exact roles they are opening.
 
-I also exported a free sample CSV of 50 companies (DoorDash, Instacart, BillionToOne, etc. actively hiring right now) if you want to inspect the data structure:
-[Link to your Google Drive / GitHub repo]
+If anyone wants the link to run the automation or grab a free sample CSV of 50 active YC startups hiring right now, drop a comment or check the link I put in the comments below.
 
-Hope this saves you hours of manual prospecting. Happy to answer any questions or add custom filters!
+Curious to hear—what other trigger events are converting best for your outbound teams right now?
 ```
 
----
-
-## 📌 Post 2: Reddit (r/recruiting & r/recruitinghell)
-
-**Subreddits:** [r/recruiting](https://reddit.com/r/recruiting), [r/headhunting](https://reddit.com/r/headhunting)  
-**Flair:** `Tools` / `Tips`
-
-### Title:
-> **Free tool + sample data to scrape Y Combinator jobs with salary ranges & founder contacts**
-
-### Body:
+### 3. Ваш первый комментарий (Post Comment — отправлять сразу после публикации поста):
 ```text
-Hi recruiters,
-
-Finding tech startups that actually disclose verified salary ranges and equity is a headache, especially across 1,400+ YC companies.
-
-I put together an automated scraper that monitors Work at a Startup and extracts:
-- Role & seniority (Engineering, Product, Sales, AI)
-- Remote vs on-site policy
-- Posted annual salary compensation + equity range
-- Startup founder names & direct job application URLs
-
-You can run it or schedule weekly reports directly on Apify:
+For anyone asking, I published the tool as an open Apify Actor here:
 👉 https://apify.com/tapjaa/yc-talent-radar
 
-It takes ~15 seconds to pull 1,000+ listings. Perfect for populating ATS talent pipelines or tracking market salary benchmarks.
+It pulls ~1,000 active listings in under 20 seconds and can be called directly via webhook into Clay, Make, or Google Sheets.
 
-Feedback and feature suggestions welcome!
+Hope it saves you guys prospecting hours!
 ```
 
 ---
 
-## 📌 Post 3: Hacker News (Show HN)
+## 📌 Пост 2: Reddit (r/recruiting & r/headhunting)
+*Аудитория — IT-рекрутеры, агентства и сорсеры, ищущие кандидатов и вакансии с зарплатными вилками.*
 
-**Platform:** [news.ycombinator.com](https://news.ycombinator.com/show)  
-**Format:** Plain text, no marketing jargon. Hacker News appreciates clean technical implementation.
+* **Сабреддиты:** [r/recruiting](https://reddit.com/r/recruiting), [r/headhunting](https://reddit.com/r/headhunting), [r/TalentAcquisition](https://reddit.com/r/TalentAcquisition)
+* **Flair при публикации:** `Tools` / `Tips`
 
-### Title:
-> **Show HN: YC Talent Radar – Fast scraper for Work at a Startup with salaries and founders**
+### 1. Заголовок (Title):
+```text
+How I automated tracking 1,400+ YC startups hiring engineers with verified salary ranges & founder contacts
+```
 
-### Body:
+### 2. Тело поста (Post Body — копировать без ссылок):
+```text
+Hi everyone,
+
+Finding high-paying startup roles that actually disclose real compensation (base salary + equity ranges) is still a nightmare in 2026. Most job boards hide compensation behind paywalls or don't verify if the startup is even funded.
+
+I put together an automation that continuously monitors Work at a Startup (YC's official talent directory) and pulls:
+- Exact posted salary ranges and equity percentages
+- Remote vs hybrid vs on-site requirements
+- Functional departments (Engineering, AI/ML, Product, Sales)
+- Startup metadata + founder names for direct outreach
+
+It extracts around 1,000 verified listings in about 20 seconds without needing proxies or browser sessions.
+
+Super useful for:
+1. Benchmarking tech market compensation across funded startups.
+2. Sourcing candidates who want venture-backed early-stage equity.
+3. Cold outreach directly to founders who don't have an internal talent team yet.
+
+I dropped the link to the cloud tool in the comments below for anyone who wants to run it or export to CSV.
+
+What filters or data points would be most useful to add next?
+```
+
+### 3. Ваш первый комментарий (Post Comment):
+```text
+Here is the link to the Apify tool if you want to run it or set up weekly scheduled runs:
+👉 https://apify.com/tapjaa/yc-talent-radar
+
+You can export results directly to CSV/Excel or sync via Webhook to your ATS/CRM.
+```
+
+---
+
+## 📌 Пост 3: Reddit (r/SideProject & r/webscraping)
+*Техническое комьюнити разработчиков и инди-хакеров, которые ценят красивую оптимизацию.*
+
+* **Сабреддиты:** [r/SideProject](https://reddit.com/r/SideProject), [r/webscraping](https://reddit.com/r/webscraping)
+* **Flair:** `Showcase` / `Discussion`
+
+### 1. Заголовок (Title):
+```text
+Scraping 1,400+ YC startup jobs in 20s without headless browsers or proxies (Algolia + Inertia JSON extraction)
+```
+
+### 2. Тело поста (Post Body — копировать без ссылок):
+```text
+Hey devs,
+
+Most scrapers for job directories rely on Playwright or Puppeteer, spinning up headless Chromium instances that consume 2GB+ RAM and take minutes to crawl a few hundred pages.
+
+I wanted to build a fast, zero-overhead scraper for Y Combinator's "Work at a Startup". 
+
+Here’s the technical approach:
+1. **Direct Algolia Indexing**: Instead of crawling pages, the scraper talks directly to YC’s public Algolia search cluster (`YCCompany_production`), fetching company slugs filtered by `isHiring: true` in ~0.5s.
+2. **Inertia.js JSON Extraction**: The company detail pages are rendered using Inertia.js. Instead of rendering HTML and parsing DOM selectors, a regex extracts the server-rendered `data-page` JSON prop.
+3. **Pure Asynchronous Python**: Uses `httpx` and `asyncio` to extract 1,000+ enriched records (salaries, equity, founders) in ~20 seconds using <256MB RAM.
+
+I packaged it into an Apify Actor with input/output schemas so anyone can call it via REST API or connect to Clay/Make.
+
+Link is in the first comment for anyone interested in testing it out. Feedback on the architecture is welcome!
+```
+
+### 3. Ваш первый комментарий (Post Comment):
+```text
+Here's the link to the live Actor on Apify:
+👉 https://apify.com/tapjaa/yc-talent-radar
+
+Happy to answer any technical questions about reverse-engineering Inertia or Algolia payloads!
+```
+
+---
+
+## 📌 Пост 4: Hacker News (Show HN)
+*На Hacker News ссылки в заголовке разрешены по правилам платформы.*
+
+* **URL подачи:** [news.ycombinator.com/submit](https://news.ycombinator.com/submit)
+* **Title:** `Show HN: YC Talent Radar – Real-time job & salary scraper for funded startups`
+* **URL:** `https://apify.com/tapjaa/yc-talent-radar`
+* **Text (First Comment by author):**
 ```text
 Hi HN,
 
 I built YC Talent Radar, a fast data extractor for Work at a Startup (workatastartup.com).
 
-Most YC scrapers either parse only high-level directory cards or use full browser automation (Puppeteer/Playwright), which is resource-heavy and slow.
+Most YC scrapers either parse only high-level directory cards or use full browser automation (Puppeteer/Playwright), which is slow and memory-heavy.
 
-This Actor connects directly to the underlying Algolia search indexes and parses the server-rendered Inertia.js JSON payloads asynchronously in Python. It can index 1,000+ open roles across YC alumni (including salaries, equity, and founders) in ~20 seconds consuming <256MB RAM.
+This tool queries the underlying Algolia indexes directly and parses server-rendered Inertia.js JSON payloads asynchronously in Python. It indexes 1,000+ open roles across YC alumni (including salaries, equity, and founders) in ~20 seconds on <256MB RAM.
 
-Actor on Apify: https://apify.com/tapjaa/yc-talent-radar
-
-Sample schema includes:
-- Company name, YC batch, industry, team size, website
+Schema includes:
+- Startup name, YC batch, industry, team size, website
 - Founder names
 - Job title, role type, location, remote flag
 - Salary range & equity percentage
 - Direct apply URL
 
-Would love any feedback on search filters or data points you’d like added.
+Would love feedback from engineers or recruiters on additional filters!
 ```
-
----
-
-## 📌 Post 4: Twitter / X Thread
-
-### Tweet 1 (Hook):
-> We analyzed 1,400+ @ycombinator startups actively hiring engineers right now.
-> 
-> The data shows which funded companies are paying the highest salaries, offering the most equity, and hiring remote talent in 2026.
-> 
-> Here’s the breakdown + free tool to track them: 🧵👇
-
-### Tweet 2 (Data Insight):
-> 📊 Key findings from the latest YC hiring radar:
-> • 42% of startups now offer full-remote or hybrid roles.
-> • Average base salary for Senior AI/ML Engineers is $175k - $240k + up to 1.5% equity.
-> • Top alumni like DoorDash, Instacart, and Amplitude continue hiring heavily for infrastructure & AI.
-
-### Tweet 3 (Call to Action):
-> Built an automated Apify Actor to track every new job opening with exact salaries and founder names in real time:
-> 
-> Run it here: https://apify.com/tapjaa/yc-talent-radar
-> 
-> Integrates directly with Clay, Airtable, or your CRM. 🚀
