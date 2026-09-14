@@ -16,8 +16,7 @@
       "editor": "select",
       "items": {
         "type": "string",
-        "enum": ["Engineering", "Product", "Design", "Sales", "Marketing", "Operations", "Science"],
-        "default": "Engineering"
+        "enum": ["Engineering", "Product", "Design", "Sales", "Marketing", "Operations", "Science"]
       },
       "default": []
     },
