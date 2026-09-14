@@ -1,0 +1,51 @@
+{
+  "title": "YC Startup Jobs & Talent Radar Inputs",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "searchQuery": {
+      "title": "Keyword Search",
+      "type": "string",
+      "description": "Keywords across company name, description, or tech stack (e.g., 'AI', 'Python', 'Fintech')",
+      "editor": "textfield"
+    },
+    "roles": {
+      "title": "Job Roles",
+      "type": "array",
+      "description": "Filter by job category. Leave empty for all.",
+      "editor": "select",
+      "items": {
+        "type": "string",
+        "enum": ["Engineering", "Product", "Design", "Sales", "Marketing", "Operations", "Science"],
+        "default": "Engineering"
+      },
+      "default": []
+    },
+    "batches": {
+      "title": "YC Batches",
+      "type": "array",
+      "description": "Filter by specific YC batches (e.g., ['W24', 'S23'])",
+      "editor": "stringList",
+      "default": []
+    },
+    "locationFilter": {
+      "title": "Location or 'Remote'",
+      "type": "string",
+      "description": "Filter by location name or 'Remote'",
+      "editor": "textfield"
+    },
+    "maxItems": {
+      "title": "Max Job Items",
+      "type": "integer",
+      "description": "Maximum number of jobs to return",
+      "default": 100,
+      "minimum": 1
+    },
+    "enrichCompanyDetails": {
+      "title": "Enrich Company & Founders",
+      "type": "boolean",
+      "description": "Fetch founders, company website, and tech description",
+      "default": true
+    }
+  }
+}

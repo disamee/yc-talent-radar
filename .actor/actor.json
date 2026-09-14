@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "yc-talent-radar",
+  "title": "Y Combinator Startup Jobs & Talent Radar",
+  "description": "Extract verified tech jobs, salary & equity ranges, founder contacts, and tech stacks from 1,400+ funded YC startups. Real-time B2B hiring signals.",
+  "version": "1.0.0",
+  "dockerfile": "./Dockerfile",
+  "categories": ["JOBS", "LEAD_GENERATION", "BUSINESS"]
+}
