@@ -1,0 +1,11 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "YC Startup Jobs & Talent Radar Output",
+  "properties": {
+    "results": {
+      "type": "string",
+      "title": "Jobs & Talent Intelligence",
+      "template": "{{links.apiDefaultDatasetUrl}}/items"
+    }
+  }
+}

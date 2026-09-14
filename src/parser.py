@@ -76,14 +76,16 @@ def extract_jobs_from_company(
         is_remote = "remote" in location.lower() or bool(j.get("remote"))
 
         jobs.append({
-            "jobId": job_id,
+            "jobId": str(job_id) if job_id is not None else None,
             "jobTitle": title,
+            "companyName": company_info.get("name"),
             "roleType": j.get("roleType", "Engineering"),
             "jobType": j.get("jobType", "Fulltime"),
             "location": location,
             "isRemote": is_remote,
             "salaryRange": j.get("salary") or "Not specified",
             "equity": j.get("equity") or "Not specified",
+            "companyBatch": company_info.get("batch"),
             "applyUrl": j.get("applyUrl") or f"https://www.workatastartup.com/companies/{company_info['slug']}",
             "company": company_info,
             "scrapedAt": now_iso

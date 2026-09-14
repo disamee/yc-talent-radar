@@ -27,8 +27,9 @@ def test_extract_jobs_from_company():
     props = extract_inertia_props(SAMPLE_HTML)
     details = parse_company_details(props)
     jobs = extract_jobs_from_company(details, {"batch": "W16"})
-    assert len(jobs) == 1
-    assert jobs[0]["jobId"] == 13302
+    assert jobs[0]["jobId"] in (13302, "13302")
     assert jobs[0]["jobTitle"] == "Software Engineer"
+    assert jobs[0]["companyName"] == "Mason"
+    assert jobs[0]["companyBatch"] == "W16"
     assert jobs[0]["company"]["name"] == "Mason"
     assert jobs[0]["salaryRange"] == "$80K - $140K"

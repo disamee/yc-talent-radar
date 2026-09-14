@@ -5,5 +5,9 @@
   "description": "Extract verified tech jobs, salary & equity ranges, founder contacts, and tech stacks from 1,400+ funded YC startups. Real-time B2B hiring signals.",
   "version": "0.1",
   "dockerfile": "./Dockerfile",
+  "output": "./output_schema.json",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  },
   "categories": ["JOBS", "LEAD_GENERATION", "BUSINESS"]
 }

@@ -1,0 +1,116 @@
+{
+  "actorSpecification": 1,
+  "fields": {
+    "type": "object",
+    "properties": {
+      "jobId": {
+        "type": ["string", "integer", "null"],
+        "description": "Unique identifier of the job opening"
+      },
+      "jobTitle": {
+        "type": "string",
+        "description": "Title of the open position"
+      },
+      "companyName": {
+        "type": ["string", "null"],
+        "description": "Name of the YC startup"
+      },
+      "roleType": {
+        "type": "string",
+        "description": "Role classification or department"
+      },
+      "jobType": {
+        "type": "string",
+        "description": "Employment type (Fulltime, Contract, etc.)"
+      },
+      "location": {
+        "type": "string",
+        "description": "Job location or remote status"
+      },
+      "isRemote": {
+        "type": "boolean",
+        "description": "Whether the role offers remote work"
+      },
+      "salaryRange": {
+        "type": "string",
+        "description": "Salary compensation range"
+      },
+      "equity": {
+        "type": "string",
+        "description": "Equity compensation range"
+      },
+      "companyBatch": {
+        "type": ["string", "null"],
+        "description": "Y Combinator batch (e.g. S24, W24, W16)"
+      },
+      "applyUrl": {
+        "type": "string",
+        "description": "Link to apply or view the job opening"
+      },
+      "company": {
+        "type": "object",
+        "description": "Detailed startup metadata including founders and website"
+      },
+      "scrapedAt": {
+        "type": "string",
+        "description": "Timestamp when the record was collected"
+      }
+    }
+  },
+  "views": {
+    "overview": {
+      "title": "Overview",
+      "transformation": {
+        "fields": [
+          "jobTitle",
+          "companyName",
+          "roleType",
+          "jobType",
+          "location",
+          "isRemote",
+          "salaryRange",
+          "equity",
+          "companyBatch",
+          "applyUrl"
+        ]
+      },
+      "display": {
+        "component": "table",
+        "properties": {
+          "jobTitle": {
+            "label": "Job Title"
+          },
+          "companyName": {
+            "label": "Company"
+          },
+          "roleType": {
+            "label": "Role"
+          },
+          "jobType": {
+            "label": "Type"
+          },
+          "location": {
+            "label": "Location"
+          },
+          "isRemote": {
+            "label": "Remote",
+            "format": "boolean"
+          },
+          "salaryRange": {
+            "label": "Salary"
+          },
+          "equity": {
+            "label": "Equity"
+          },
+          "companyBatch": {
+            "label": "YC Batch"
+          },
+          "applyUrl": {
+            "label": "Apply Link",
+            "format": "link"
+          }
+        }
+      }
+    }
+  }
+}
