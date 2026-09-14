@@ -1,0 +1,1882 @@
+[
+  {
+    "jobId": "68748",
+    "jobTitle": "Engineering Manager, Storefront",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US / Seattle, WA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "45996",
+    "jobTitle": "Engineering Manager, Core Platform   ",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "68749",
+    "jobTitle": "Staff iOS Engineer, Storefront",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US / Seattle, WA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "249",
+    "jobTitle": "Software Engineer, Android",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "901 Market, SF, CA 94105",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "44382",
+    "jobTitle": "Software Engineer, Core Platform",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "100% Remote / Remote",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "46703",
+    "jobTitle": "Software Engineer, Distributed Databases",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Remote",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "254",
+    "jobTitle": "Software Engineer, iOS",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "901 Market Floor 6, SF, CA 94105",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "45997",
+    "jobTitle": "Software Engineer, Site Reliability (SRE)",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "1413",
+    "jobTitle": "Backend Engineer",
+    "companyName": "DoorDash",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "901 Market Floor 6, SF, CA 94105",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S13",
+    "applyUrl": "https://www.workatastartup.com/companies/doordash",
+    "company": {
+      "name": "DoorDash",
+      "slug": "doordash",
+      "batch": "S13",
+      "website": "http://doordash.com",
+      "teamSize": 8600,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Restaurant delivery.",
+      "founders": [
+        {
+          "name": "Andy Fang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Stanley Tang",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Tony Xu",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.348800+00:00"
+  },
+  {
+    "jobId": "14441",
+    "jobTitle": "React Native Developer",
+    "companyName": "Groww",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Bengaluru, Karnataka",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W18",
+    "applyUrl": "https://www.workatastartup.com/companies/groww",
+    "company": {
+      "name": "Groww",
+      "slug": "groww",
+      "batch": "W18",
+      "website": "https://groww.in",
+      "teamSize": 1050,
+      "industry": "Fintech -> Asset Management",
+      "oneLiner": "Making financial services simple, transparent and delightful. ",
+      "founders": [
+        {
+          "name": "Ishan Bansal",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Harsh Jain",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Lalit Keshre",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Neeraj Singh",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.774741+00:00"
+  },
+  {
+    "jobId": "15730",
+    "jobTitle": "Software Developer ",
+    "companyName": "Groww",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Bengaluru, Karnataka",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W18",
+    "applyUrl": "https://www.workatastartup.com/companies/groww",
+    "company": {
+      "name": "Groww",
+      "slug": "groww",
+      "batch": "W18",
+      "website": "https://groww.in",
+      "teamSize": 1050,
+      "industry": "Fintech -> Asset Management",
+      "oneLiner": "Making financial services simple, transparent and delightful. ",
+      "founders": [
+        {
+          "name": "Ishan Bansal",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Harsh Jain",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Lalit Keshre",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Neeraj Singh",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:39.774741+00:00"
+  },
+  {
+    "jobId": "14822",
+    "jobTitle": "Android Engineer",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "15183",
+    "jobTitle": "Senior Software Engineer",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA / Remote",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "14911",
+    "jobTitle": "Senior Software Engineer, Infrastructure",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "14914",
+    "jobTitle": "Senior iOS Engineer",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "14912",
+    "jobTitle": "Senior Software Engineer, Customers, Front End",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "14859",
+    "jobTitle": "Senior Software Engineer, Customers Back End",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "14915",
+    "jobTitle": "Senior Android Engineer",
+    "companyName": "Instacart",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San francisco, CA / Remote",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S12",
+    "applyUrl": "https://www.workatastartup.com/companies/instacart",
+    "company": {
+      "name": "Instacart",
+      "slug": "instacart",
+      "batch": "S12",
+      "website": "https://www.instacart.com",
+      "teamSize": 3000,
+      "industry": "Consumer -> Food and Beverage",
+      "oneLiner": "Marketplace for grocery delivery and pickup",
+      "founders": [
+        {
+          "name": "Brandon Leonardo",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Apoorva Mehta",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Max Mullen",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:40.210051+00:00"
+  },
+  {
+    "jobId": "97725",
+    "jobTitle": "Director, Office of the CEO, Founder in Residence Program",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "90769",
+    "jobTitle": "Senior Software Engineer, Prenatal",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "93975",
+    "jobTitle": "Senior AI Engineer I",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "90768",
+    "jobTitle": "Senior Software Engineer, Digital Experiences (Prenatal)",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "90767",
+    "jobTitle": "Senior Software Engineer, Oncology",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "72604",
+    "jobTitle": "Senior Software Engineer, Frontend",
+    "companyName": "BillionToOne",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Menlo Park, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S17",
+    "applyUrl": "https://www.workatastartup.com/companies/billiontoone",
+    "company": {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "batch": "S17",
+      "website": "https://www.billiontoone.com",
+      "teamSize": 300,
+      "industry": "Healthcare -> Diagnostics",
+      "oneLiner": "The genetic testing platform detecting and measuring disease.",
+      "founders": [
+        {
+          "name": "Oguzhan Atay",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "David Tsao",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.033137+00:00"
+  },
+  {
+    "jobId": "64676",
+    "jobTitle": "Engineering Manager",
+    "companyName": "EquipmentShare",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "US / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W15",
+    "applyUrl": "https://www.workatastartup.com/companies/equipmentshare",
+    "company": {
+      "name": "EquipmentShare",
+      "slug": "equipmentshare",
+      "batch": "W15",
+      "website": "https://www.equipmentshare.com",
+      "teamSize": 5400,
+      "industry": "Real Estate and Construction -> Construction",
+      "oneLiner": "Cloud solutions for the construction industry.",
+      "founders": [
+        {
+          "name": "Jeff Lowe",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "William Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Jabbok Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Brad Siegler",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.507877+00:00"
+  },
+  {
+    "jobId": "37580",
+    "jobTitle": "Product Designer",
+    "companyName": "EquipmentShare",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Remote / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W15",
+    "applyUrl": "https://www.workatastartup.com/companies/equipmentshare",
+    "company": {
+      "name": "EquipmentShare",
+      "slug": "equipmentshare",
+      "batch": "W15",
+      "website": "https://www.equipmentshare.com",
+      "teamSize": 5400,
+      "industry": "Real Estate and Construction -> Construction",
+      "oneLiner": "Cloud solutions for the construction industry.",
+      "founders": [
+        {
+          "name": "Jeff Lowe",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "William Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Jabbok Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Brad Siegler",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.507877+00:00"
+  },
+  {
+    "jobId": "48352",
+    "jobTitle": "Mid-level Software Engineer",
+    "companyName": "EquipmentShare",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W15",
+    "applyUrl": "https://www.workatastartup.com/companies/equipmentshare",
+    "company": {
+      "name": "EquipmentShare",
+      "slug": "equipmentshare",
+      "batch": "W15",
+      "website": "https://www.equipmentshare.com",
+      "teamSize": 5400,
+      "industry": "Real Estate and Construction -> Construction",
+      "oneLiner": "Cloud solutions for the construction industry.",
+      "founders": [
+        {
+          "name": "Jeff Lowe",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "William Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Jabbok Schlacks",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Brad Siegler",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.507877+00:00"
+  },
+  {
+    "jobId": "106784",
+    "jobTitle": "Staff Software Engineer - DevX",
+    "companyName": "Amplitude",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W12",
+    "applyUrl": "https://www.workatastartup.com/companies/amplitude",
+    "company": {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "batch": "W12",
+      "website": "https://amplitude.com",
+      "teamSize": 750,
+      "industry": "B2B -> Analytics",
+      "oneLiner": "Digital Analytics Platform",
+      "founders": [
+        {
+          "name": "Curtis Liu",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Spenser Skates",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.935591+00:00"
+  },
+  {
+    "jobId": "106780",
+    "jobTitle": "Senior Software Engineer; Analytics Compute Platform team",
+    "companyName": "Amplitude",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W12",
+    "applyUrl": "https://www.workatastartup.com/companies/amplitude",
+    "company": {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "batch": "W12",
+      "website": "https://amplitude.com",
+      "teamSize": 750,
+      "industry": "B2B -> Analytics",
+      "oneLiner": "Digital Analytics Platform",
+      "founders": [
+        {
+          "name": "Curtis Liu",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Spenser Skates",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.935591+00:00"
+  },
+  {
+    "jobId": "105252",
+    "jobTitle": "Global Startup and Venture Program Lead",
+    "companyName": "Amplitude",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W12",
+    "applyUrl": "https://www.workatastartup.com/companies/amplitude",
+    "company": {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "batch": "W12",
+      "website": "https://amplitude.com",
+      "teamSize": 750,
+      "industry": "B2B -> Analytics",
+      "oneLiner": "Digital Analytics Platform",
+      "founders": [
+        {
+          "name": "Curtis Liu",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Spenser Skates",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.935591+00:00"
+  },
+  {
+    "jobId": "91864",
+    "jobTitle": "Senior Engineering Manager, Experiment",
+    "companyName": "Amplitude",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W12",
+    "applyUrl": "https://www.workatastartup.com/companies/amplitude",
+    "company": {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "batch": "W12",
+      "website": "https://amplitude.com",
+      "teamSize": 750,
+      "industry": "B2B -> Analytics",
+      "oneLiner": "Digital Analytics Platform",
+      "founders": [
+        {
+          "name": "Curtis Liu",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Spenser Skates",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.935591+00:00"
+  },
+  {
+    "jobId": "91863",
+    "jobTitle": "Engineering Manager, Guides & Surveys",
+    "companyName": "Amplitude",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, CA, US",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "W12",
+    "applyUrl": "https://www.workatastartup.com/companies/amplitude",
+    "company": {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "batch": "W12",
+      "website": "https://amplitude.com",
+      "teamSize": 750,
+      "industry": "B2B -> Analytics",
+      "oneLiner": "Digital Analytics Platform",
+      "founders": [
+        {
+          "name": "Curtis Liu",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Spenser Skates",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:41.935591+00:00"
+  },
+  {
+    "jobId": "95520",
+    "jobTitle": "Senior Software Engineer, Incubator",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102945",
+    "jobTitle": "Senior Software Engineer (Python), Mortgage",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102942",
+    "jobTitle": "Engineering Manager, Mortgage",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102943",
+    "jobTitle": "Engineering Manager, Verifications",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102944",
+    "jobTitle": "Senior Product Designer, Mortgage",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102946",
+    "jobTitle": "Senior Software Engineer, Trust",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102947",
+    "jobTitle": "Senior Staff Product Manager, Fraud Hiring Solutions",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Denver, Colorado, United States / San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102948",
+    "jobTitle": "Staff Data Engineer",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "102949",
+    "jobTitle": "Staff Product Designer, Growth",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "92306",
+    "jobTitle": "Staff Product Manager, Identity Risk Solutions",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Denver, Colorado, United States; San Francisco, California, United States",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97709",
+    "jobTitle": "Engineering Manager, Mortgage",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97710",
+    "jobTitle": "Engineering Manager, Verifications",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States",
+    "isRemote": false,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97711",
+    "jobTitle": "Chief of Staff, Product",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97712",
+    "jobTitle": "Lead Brand Designer",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97713",
+    "jobTitle": "Product Finance & Strategy Manager",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97714",
+    "jobTitle": "Senior Manager Data Science, Revenue & Growth",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97715",
+    "jobTitle": "Senior Product Designer, Truework",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  },
+  {
+    "jobId": "97716",
+    "jobTitle": "Senior Salesforce Developer - Service Cloud",
+    "companyName": "Checkr",
+    "roleType": "Engineering",
+    "jobType": "Full-time",
+    "location": "Denver, Colorado, United States / San Francisco, California, United States / Remote (US)",
+    "isRemote": true,
+    "salaryRange": "Not specified",
+    "equity": "Not specified",
+    "companyBatch": "S14",
+    "applyUrl": "https://www.workatastartup.com/companies/checkr",
+    "company": {
+      "name": "Checkr",
+      "slug": "checkr",
+      "batch": "S14",
+      "website": "http://www.checkr.com",
+      "teamSize": 800,
+      "industry": "B2B -> Human Resources",
+      "oneLiner": "People infrastructure for the future of work",
+      "founders": [
+        {
+          "name": "Jonathan Perichon",
+          "role": "Founder",
+          "avatar": null
+        },
+        {
+          "name": "Daniel Yanisse",
+          "role": "Founder",
+          "avatar": null
+        }
+      ]
+    },
+    "scrapedAt": "2026-09-14T11:30:43.237711+00:00"
+  }
+]

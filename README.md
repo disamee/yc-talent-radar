@@ -79,9 +79,52 @@ Each dataset item contains complete job specifications linked to founder and com
 
 ---
 
-## 🔗 Integrations & Automation
+## 🔗 Integrations & Automation (Clay, Make, Zapier, Python)
 
-Export your extracted data instantly to:
-* **Google Sheets / Excel**: Download via CSV or sync via Apify Webhooks.
-* **Make / Zapier**: Send automated Slack/Email alerts whenever a new AI startup posts a job.
-* **Custom APIs**: Connect directly to your CRM or internal candidate database via Apify REST API.
+### 1. Clay.com (Automated Outbound & Enrichment)
+Enrich your outbound campaigns with live YC hiring triggers:
+1. In your **Clay** table, add an **HTTP API** integration or **Apify Integration**.
+2. Select **Run Actor** and enter Actor ID: `tapjaa/yc-talent-radar`.
+3. Pass your search criteria (e.g. `{"searchQuery": "AI", "maxItems": 100}`).
+4. Map `company.founders`, `salaryRange`, and `jobTitle` directly into your Clay personalization columns to auto-draft outreach emails like:
+   > *"Saw that [Company] is scaling its engineering team with a new [Job Title] role..."*
+
+### 2. Make.com & Zapier (Scheduled Webhooks & Slack Alerts)
+Set up a weekly cron schedule inside Apify Console:
+1. Under **Integrations**, add a **Webhook** to trigger your Make / Zapier webhook URL on `ACTOR.RUN.SUCCEEDED`.
+2. Stream fresh YC jobs directly into **Airtable**, **Notion**, or a dedicated **#hiring-radar** Slack channel every Monday morning.
+
+### 3. Python API Integration
+```python
+from apify_client import ApifyClient
+
+client = ApifyClient("YOUR_APIFY_TOKEN")
+
+# Run the YC Talent Radar Actor
+run = client.actor("tapjaa/yc-talent-radar").call(
+    run_input={"searchQuery": "AI", "roles": ["Engineering"], "maxItems": 50}
+)
+
+# Fetch dataset items
+for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+    print(f"{item['companyName']}: {item['jobTitle']} ({item['salaryRange']})")
+```
+
+---
+
+## 📈 Real-Time Sample Data Preview
+
+| Company | Batch | Job Title | Role | Location | Remote | Founders |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **DoorDash** | S13 | Staff iOS Engineer | Engineering | San Francisco / Seattle | No | Andy Fang, Stanley Tang, Tony Xu |
+| **Instacart** | S12 | Senior Software Engineer | Engineering | San Francisco, CA | Yes | Brandon Leonardo, Apoorva Mehta |
+| **BillionToOne** | S17 | Senior AI Engineer | Engineering | Menlo Park, CA | No | Oguzhan Atay, David Tsao |
+| **EquipmentShare** | W15 | Engineering Manager | Engineering | Remote (US) | Yes | Jeff Lowe, William Schlacks |
+| **Amplitude** | W12 | Staff Software Engineer | Engineering | San Francisco, CA | Yes | Curtis Liu, Spenser Skates |
+
+---
+
+## 💬 Support & Custom Requests
+
+Need custom filters, specialized data extraction, or dedicated webhooks for your recruitment agency? Reach out directly via Apify Console or open an issue!
+
