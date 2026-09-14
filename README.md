@@ -1,10 +1,13 @@
 # 🚀 Y Combinator Startup Jobs & Talent Radar
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue.svg)](https://apify.com)
-[![Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://apify.com)
-[![Speed](https://img.shields.io/badge/Speed-Sub--Second-orange.svg)](https://apify.com)
+[![Run on Apify](https://apify.com/img/store/actor_badge.svg)](https://apify.com/tapjaa/yc-talent-radar)
+[![Apify Actor](https://img.shields.io/badge/Apify-tapjaa%2Fyc--talent--radar-blue.svg)](https://apify.com/tapjaa/yc-talent-radar)
+[![Maintenance](https://img.shields.io/badge/Maintenance-Active-green.svg)](https://apify.com/tapjaa/yc-talent-radar)
+[![Speed](https://img.shields.io/badge/Speed-20s%20%2F%201k%20jobs-orange.svg)](https://apify.com/tapjaa/yc-talent-radar)
 
 Extract verified startup jobs, salary & equity ranges, founder contacts, and tech stacks from **over 1,400+ funded Y Combinator startups** on [Work at a Startup](https://www.workatastartup.com).
+
+> ⚡ **Run in Cloud**: No installation or local Python environment needed. Run it in 1 click or connect via webhook to Clay, Make, and Airtable on [Apify Store: YC Talent Radar](https://apify.com/tapjaa/yc-talent-radar).
 
 Get real-time, high-intent B2B hiring signals without heavy browser overhead or expensive residential proxies.
 
