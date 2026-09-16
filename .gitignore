@@ -6,3 +6,4 @@ storage/
 apify_storage/
 scratch/
 .env
+actors/
